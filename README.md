@@ -29,13 +29,13 @@
 
 ## `CHANGE SESSION`
 
-[`Click Here`](https://github.com/DGXeon/DogeBot2/blob/master/session.json#L1)
+[`Click Here`](https://github.com/SandunMihiranga1/Saduwa-Bot/blob/master/session.json#L1)
 
 ## `SETTINGS`
 
-- CHANGE OWNER NUMBER [Here](https://github.com/DGXeon/DogeBot3/blob/master/setting/setting.json#L6)
-- CHANGE OWNER NAME [Here](https://github.com/DGXeon/DogeBot3/blob/master/setting/setting.json#L7)
-- CHANGE BOT NAME [Here](https://github.com/DGXeon/DogeBot3/blob/master/setting/setting.json#L8)
+- CHANGE OWNER NUMBER [Here](https://github.com/SandunMihiranga1/Saduwa-Bot/blob/master/setting/setting.json#L6)
+- CHANGE OWNER NAME [Here](https://github.com/SandunMihiranga1/Saduwa-Bot/blob/master/setting/setting.json#L7)
+- CHANGE BOT NAME [Here](https://github.com/SandunMihiranga1/Saduwa-Bot/blob/master/setting/setting.json#L8)
 
 ## ` BUILDPACKS`
 
@@ -57,8 +57,8 @@ heroku/nodejs
 * Any text editor
 ## `Clone Repo & Installation dependencies`
 ```bash
-🦄 git clone https://github.com/DGXeon/DogeBot.git
-🦄 cd DogeBot3
+🦄 git clone https://github.com/SandunMihiranga1/Saduwa-Bot.git
+🦄 cd Saduwa-Bot
 🦄 npm start
 ```
 ## `For Termux/Ssh/Ubuntu`
