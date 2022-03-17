@@ -92,10 +92,10 @@ My Personal Chat👇
 
 My Whatsapp Group👇
 <p align="center">
- <a href="Follow this link to join my WhatsApp group: https://chat.whatsapp.com/JLGbKMcql4k8ZhvRlAy8rH"><img alt="WhatsApp Group" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+ <a href="https://chat.whatsapp.com/JLGbKMcql4k8ZhvRlAy8rH"><img alt="WhatsApp Group" src="https://chat.whatsapp.com/JLGbKMcql4k8ZhvRlAy8rH"/></a>
 </p>
 
-* [`My Youtube Channel`](https://youtube.com/channel/UCvAo9TZ0Pw9vrJ_0WYRyO3A)
+* [`My Youtube Channel`](https://youtube.com/channel/UC037iLQeTNabeDrF5qJxP9g)
 
 # Thanks To 👇
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
