@@ -74,8 +74,8 @@ heroku/nodejs
 🦄 pkg install ffmpeg -y 
 🦄 pkg install wget
 🦄 pkg install imagemagick -y
-🦄 git clone https://github.com/DGXeon/DogeBot2
-🦄 cd DogeBot3
+🦄 git clone https://github.com/SandunMihiranga1/Saduwa-Bot
+🦄 cd Saduwa-Bot
 🦄 ls
 🦄 rm -rf session.json
 🦄 npm start
